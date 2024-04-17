@@ -19,6 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+<<<<<<< HEAD
 <html>
     <head>
         Students list 
@@ -45,9 +46,13 @@
         
   
 </html>
+=======
+    
+>>>>>>> 7c3f65484a9fdd49f4f65ed4e8352e219462ffe0
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-04-16 092358.png>)
+
 
 
 ## RESULT
