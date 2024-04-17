@@ -19,9 +19,35 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+<html>
+    <head>
+        Students list 
+    </head>
+    <body>
+        <ul>
+            <li> Sai sruthi </li>
+            <li> Vidhya </li>
+            <li> Vaish </li>
+            <li> Venkat </li>
+            <li> Sam </li>
+        </ul>
+        <ol>
+            <li> Seniorr </li>
+            <li> Rithikaa </li>
+            <li> Pragya </li> 
+            <li> Harini </li>
+            <li> Rajuu </li>
+            <li> Vaishnavi </li>
+          </ol>
+    </body>
+            
+            
+        
+  
+</html>
 
 ## OUTPUT
+![alt text](<Screenshot 2024-04-16 092358.png>)
 
 
 ## RESULT
