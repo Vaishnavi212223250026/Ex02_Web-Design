@@ -19,9 +19,35 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+    <html>
+    <head>
+        Students list 
+    </head>
+    <body>
+        <ul>
+            <li> Sai sruthi </li>
+            <li> Vidhya </li>
+            <li> Vaish </li>
+            <li> Venkat </li>
+            <li> Sam </li>
+        </ul>
+        <ol>
+            <li> Seniorr </li>
+            <li> Rithikaa </li>
+            <li> Pragya </li> 
+            <li> Harini </li>
+            <li> Rajuu </li>
+            <li> Vaishnavi </li>
+          </ol>
+    </body>
+            
+            
+        
+  
+</html>
 
 ## OUTPUT
+![Screenshot 2024-04-16 092358](https://github.com/Vaishnavi212223250026/Ex02_Web-Design/assets/166065602/74ea93a2-2494-4c4e-ae8c-92e4d9f9c8ca)
 
 
 ## RESULT
