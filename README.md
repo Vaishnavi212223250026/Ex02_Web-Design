@@ -19,7 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
 <html>
     <head>
         Students list 
@@ -42,7 +42,7 @@
           </ol>
     </body>
 </html>
-
+```
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-04-16 092358.png>)
